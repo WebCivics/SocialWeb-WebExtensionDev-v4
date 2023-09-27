@@ -21,6 +21,7 @@ WIP.
         - [ ] Gun.Eco
         - [ ] Git
         - [ ] Web-Torrent
+        - [ ] IPFS
     - [ ] Sidebar
         - [ ] semantic bookmarks
     - [ ] social
