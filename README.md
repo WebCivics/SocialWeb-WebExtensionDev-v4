@@ -14,8 +14,9 @@ WIP.
 - [ ] functions
     - [ ] has database (quadstore)
         - [ ] Ontologies
-                - [ ] Value-Credentials
-                - [ ] Terms Of Service
+              - [ ] Value-Credentials
+              - [ ] Codes of Conduct
+              - [ ] Terms Of Service
     - [ ] Protocols
         - [ ] Solid
         - [ ] Gun.Eco
@@ -33,3 +34,14 @@ WIP.
         - [ ] time tracker
         - [ ] Projects
         - [ ] Timeline View
+
+## Testing Micropayments & Socio-Economics
+- [ ] Requires definition of an API
+    - [ ] First Use-Case XEC Ecosystem (ecash)
+    - [ ] Need to ensure ability to work with others.
+- [ ] Requires means to define 'vault'
+    - [ ] Many Wallets Paradigm
+- [ ] Requires means to define ecosystem with 'solid' based stuff
+    - [ ] 'Addressbook'
+    - [ ] 'transaction history'
+- [ ] Investigate ability to integrate currency exchange
