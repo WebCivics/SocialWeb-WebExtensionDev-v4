@@ -5,7 +5,7 @@ Two major parts.
 1. Selfhood 
 2. Personhood (social agency)
 
-3. Diginity / Privacy
+3. Dignity / Privacy
 
 4. Permissive. 
 - Relationships are conditional. 

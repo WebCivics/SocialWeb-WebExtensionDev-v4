@@ -25,7 +25,7 @@ This is about creating a list of user-stories...
 
 The social network concepts of calling everyone 'connections' or 'friends' is malformed.  This needs to change, but i'm not sure of the language - the method is a bit more - sophisticated, and requires nomenclature to better support the implications.  
 
-- [ ] Profiles, user can have persona relating to how they want to curate their environment at that time.  There can be made, but the underlying 'soul' is in-effect - integrated.  The difference, seeks to create space for different 'mindsets', to - associatively (not disassociative ) provide assistance for people needing to organise their lives in different ways. 
+- [ ] Profiles, user can have persona relating to how they want to curate their environment at that time.  There can be made, but the underlying 'soul' is in-effect - integrated.  The difference, seeks to create space for different 'mindsets', to - associatively (not dissociative ) provide assistance for people needing to organise their lives in different ways. 
 
 EXAMPLE; 'work', 'home', 'study', 'director of xyz', 'old skool mates', 'yacht-club', etc... 
 
